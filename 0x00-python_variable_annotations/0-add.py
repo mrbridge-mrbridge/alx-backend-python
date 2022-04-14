@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """module adds two float arguments"""
 
+
 def add(a: float, b: float) -> float:
     """
         arguments:
