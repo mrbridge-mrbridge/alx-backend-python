@@ -3,10 +3,5 @@
 
 
 def add(a: float, b: float) -> float:
-    """
-    arguments:
-        a: floating type
-        b: floating type
-    return value: floating type
-    """
+    """l l l l"""
     return a + b
