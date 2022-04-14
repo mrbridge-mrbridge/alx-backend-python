@@ -9,5 +9,5 @@ def floor(n: float) -> int:
         n - floating type
     returns: int type of n
     """
-    
+
     return (math.floor(n))
