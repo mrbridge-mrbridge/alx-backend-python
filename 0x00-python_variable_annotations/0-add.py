@@ -8,4 +8,5 @@ def add(a: float, b: float) -> float:
         b - floating type
     return value: floating type
     """
-    return a + b
+
+    return (a + b)
