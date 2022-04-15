@@ -3,10 +3,11 @@
 from typing import Callable
 
 
-def make_multiplier(multiplier: float) -> Callable[[float],float]:
+def make_multiplier(multiplier: float) -> Callable[[float], float]:
     """
     arguments:
         multiplier - floating type
     returns: a Callable function
     """
+
     return (lambda x: x * multiplier)
