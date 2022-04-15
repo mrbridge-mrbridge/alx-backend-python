@@ -9,5 +9,4 @@ def make_multiplier(multiplier: float) -> Callable[[float],float]:
         multiplier - floating type
     returns: a Callable function
     """
-
-    return lambda x: x * multiplier
+    return (lambda x: x * multiplier)
