@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """module multiplies a float by multiplier"""
-
-
 from typing import Callable
 
 
